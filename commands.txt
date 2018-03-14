@@ -1,0 +1,26 @@
+1.$ mkdir lab1
+2.$ cd lab1
+3.$ git init
+4.$ nano l1.txt
+5.$ git add l1.txt
+6.$ git commit -m "Initial commit"
+7.$ nano l1.txt
+8.$ git add l1.txt
+9.$ git commit -m "modify l1.txt"
+10.$git remote add origin https://github.com/Zhivko555/Softversko1.git
+11.$git push -u origin master
+12.$nano l1.txt
+13.$git checkout -- l1.txt
+14.$git branch logging
+15.$git checkout logging
+16.$git log
+17.$nanano log
+18.$git add log.txt
+19.$git commit -m "commiting log.txt"
+20.$git push -u origin logging
+21.$git checkout master
+22.$git merge logging
+23.$git push -u origin master
+24.$git branch allcommands
+25.$nano commands.txt
+
