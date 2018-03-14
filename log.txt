@@ -1,0 +1,13 @@
+commit 176355af7a479f431050acfeb328b765b2ca9800 (HEAD -> logging, 
+origin/master, master)
+Author: unknown <zhivko.atanaskoski@students.finki.ukim.mk>
+Date:   Wed Mar 14 17:36:34 2018 +0100
+
+    modify l1.txt
+
+commit de2f7da490441ad5ae7c878af66cfd9c0e7ec7de
+Author: unknown <zhivko.atanaskoski@students.finki.ukim.mk>
+Date:   Wed Mar 14 17:31:44 2018 +0100
+
+    Initial commit
+
